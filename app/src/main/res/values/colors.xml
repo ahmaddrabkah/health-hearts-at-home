@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hh_primary">#0F4C81</color>
+    <color name="hh_accent">#E41B23</color>
+    <color name="hh_primary_container">#E6F0FA</color>
+    <color name="hh_on_primary">#FFFFFF</color>
+
+    <color name="hh_background">#F5F8FC</color>
+    <color name="hh_surface">#FFFFFF</color>
+    <color name="hh_text">#102A43</color>
+    <color name="hh_muted">#52606D</color>
+
+    <!-- Home tiles (match UI mock) -->
+    <color name="tile_general">#42A5D6</color>
+    <color name="tile_tutorials">#F39C33</color>
+    <color name="tile_spiritual">#79B24A</color>
+    <color name="tile_hospital">#2F5AA6</color>
+    <color name="tile_support">#D65A2F</color>
+    <color name="tile_track">#1E6FB7</color>
+    <color name="tile_about">#6E3B8F</color>
+    <color name="tile_contacts">#1F77B4</color>
+    <color name="brand_blue">#1976D2</color>
+</resources>

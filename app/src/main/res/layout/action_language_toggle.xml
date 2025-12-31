@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_lang_toggle"
+    android:gravity="center_vertical"
+    android:paddingStart="8dp"
+    android:paddingTop="6dp"
+    android:paddingEnd="8dp"
+    android:paddingBottom="6dp">
+
+    <com.google.android.material.button.MaterialButtonToggleGroup
+        android:id="@+id/languageToggleGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:selectionRequired="true"
+        app:singleSelection="true">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnLangEn"
+            style="@style/Widget.HH.LanguagePill"
+            android:layout_width="44dp"
+            android:layout_height="32dp"
+            android:text="EN" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnLangAr"
+            style="@style/Widget.HH.LanguagePill"
+            android:layout_width="44dp"
+            android:layout_height="32dp"
+            android:text="ع" />
+
+    </com.google.android.material.button.MaterialButtonToggleGroup>
+
+</LinearLayout>

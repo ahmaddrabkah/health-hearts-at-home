@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قلوب صحية في المنزل</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="signup">إنشاء حساب</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="name">الاسم</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="track_your_child">تتبّع طفلك</string>
+    <string name="general_childcare_info">معلومات عامة عن رعاية الطفل</string>
+    <string name="tutorials_child_care">دروس لاحتياجات رعاية الطفل</string>
+    <string name="spiritual_needs">الاحتياجات الروحية</string>
+    <string name="hospital_information">معلومات المستشفى</string>
+    <string name="caregiver_support">دعم مقدّمي الرعاية</string>
+    <string name="about_chd">معلومات عن مرض قلب طفلك الخلقي</string>
+    <string name="contacts">جهات الاتصال</string>
+    <string name="admin_panel">لوحة المشرف</string>
+    <string name="add">إضافة</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="language">اللغة</string>
+    <string name="no_items">لا توجد عناصر بعد</string>
+    <string name="loading">جارٍ التحميل…</string>
+
+    <string name="feeding">الرضاعة</string>
+    <string name="oxygen">الأكسجين</string>
+    <string name="weight">الوزن</string>
+    <string name="blood_pressure">ضغط الدَّم</string>
+
+    <string name="date">التاريخ</string>
+    <string name="time">الوقت</string>
+    <string name="amount_ml">الكمية (مل)</string>
+    <string name="method">الطريقة</string>
+    <string name="breast">رضاعة طبيعية</string>
+    <string name="bottle">زجاجة</string>
+    <string name="spo2">تشبّع الأكسجين (%)</string>
+    <string name="notes">ملاحظات</string>
+
+    <string name="tab_hospital">المستشفى</string>
+    <string name="tab_local">محلي</string>
+    <string name="tab_my_providers">مقدّمو الرعاية</string>
+
+    <string name="contacts_support">جهات الاتصال والدعم</string>
+    <string name="hospital_contacts">جهات اتصال المستشفى</string>
+    <string name="local_contacts">جهات اتصال محلية</string>
+    <string name="my_providers">مزودو الرعاية</string>
+
+    <string name="provider_name">اسم مزود الرعاية</string>
+    <string name="phone">الهاتف</string>
+    <string name="website">الموقع الإلكتروني</string>
+    <string name="address">العنوان</string>
+    <string name="add_provider">إضافة مزود</string>
+    <string name="edit_provider">تعديل مزود</string>
+
+
+    <!-- Home tile labels (same keys as English) -->
+    <string name="home_general_childcare_info">معلومات عامة عن رعاية الطفل</string>
+    <string name="home_childcare_tutorials">دروس لاحتياجات رعاية الطفل</string>
+    <string name="home_spiritual_needs">الاحتياجات الروحية</string>
+    <string name="home_hospital_information">معلومات المستشفى</string>
+    <string name="home_caregiver_support">دعم مقدّمي الرعاية</string>
+    <string name="home_about_child_chd">معلومات عن مرض قلب طفلك الخلقي</string>
+    <string name="home_track_child">تتبّع طفلك</string>
+    <string name="home_contacts">جهات الاتصال</string>
+
+    <!-- Screen titles -->
+    <string name="title_home">الرئيسية</string>
+    <string name="title_content_details">تفاصيل المحتوى</string>
+    <string name="title_add_content">إضافة محتوى</string>
+    <string name="title_edit_content">تعديل المحتوى</string>
+    <string name="search_hint">بحث…</string>
+    <string name="open">فتح</string>
+
+    <!-- Content types -->
+    <string name="type_text">نص</string>
+    <string name="type_link">رابط</string>
+    <string name="type_video">فيديو</string>
+    <string name="type_pdf">PDF</string>
+
+    <!-- Content fields -->
+    <string name="title_en">العنوان (إنجليزي)</string>
+    <string name="body_en">النص (إنجليزي)</string>
+    <string name="title_ar">العنوان (عربي)</string>
+    <string name="body_ar">النص (عربي)</string>
+    <string name="media_url_optional">رابط الوسائط (اختياري)</string>
+    <string name="link_en">رابط (إنجليزي)</string>
+    <string name="link_ar">رابط (عربي)</string>
+    <string name="video_url_en">رابط الفيديو (إنجليزي)</string>
+    <string name="video_url_ar">رابط الفيديو (عربي)</string>
+    <string name="pdf_url_en">رابط ملف PDF (إنجليزي)</string>
+    <string name="pdf_url_ar">رابط ملف PDF (عربي)</string>
+
+
+    <!-- Contacts admin -->
+    <string name="title_add_contact">إضافة جهة اتصال</string>
+    <string name="title_edit_contact">تعديل جهة اتصال</string>
+    <string name="contact_type_label">النوع</string>
+    <string name="contact_kind_label">التصنيف</string>
+    <string name="contact_value_label">القيمة</string>
+    <string name="kind_phone">هاتف</string>
+    <string name="kind_email">بريد إلكتروني</string>
+    <string name="kind_website">موقع إلكتروني</string>
+    <string name="kind_map">خريطة</string>
+    <string name="kind_text">نص</string>
+
+    <string name="hospital_website">الموقع الإلكتروني</string>
+    <string name="hospital_open_website">فتح الموقع</string>
+    <string name="hospital_working_hours">ساعات العمل</string>
+    <string name="hospital_area_map">الموقع على الخريطة</string>
+    <string name="hospital_open_location_hint">افتح الموقع على خرائط Google</string>
+    <string name="hospital_open_map">فتح الخريطة</string>
+    <string name="hospital_showers">حمّامات المستشفى</string>
+    <string name="hospital_open_showers">فتح معلومات الحمّامات</string>
+    <string name="hospital_edit_info">تعديل معلومات المستشفى</string>
+
+    <string name="hospital_website_url">رابط الموقع الإلكتروني</string>
+    <string name="hospital_working_hours_en">ساعات العمل (إنجليزي)</string>
+    <string name="hospital_working_hours_ar">ساعات العمل (عربي)</string>
+    <string name="hospital_map_query_hint">ابحث في الخريطة (اسم المستشفى أو العنوان)</string>
+    <string name="hospital_showers_url">رابط حمّامات المستشفى</string>
+
+    <string name="cg_support_groups">مجموعات الدَّعم</string>
+    <string name="cg_contacts">جهات التَّواصل</string>
+    <string name="cg_patient_stories">قصص المرضى</string>
+
+    <string name="add_support_group">إضافة مجموعة دعم</string>
+    <string name="add_contact">إضافة جهة تواصل</string>
+    <string name="add_story">إضافة قصة</string>
+
+    <string name="url_required">الرابط مطلوب.</string>
+    <string name="contact_method_required">أدخل واحدًا على الأقل: الموقع أو البريد أو الهاتف.</string>
+
+    <string name="story_type_hint">نوع القصة</string>
+    <string name="video_url">رابط الفيديو</string>
+    <string name="video_required">رابط الفيديو مطلوب.</string>
+    <string name="story_text_required">أدخل نص القصة (إنجليزي أو عربي).</string>
+
+    <string name="name_en">الاسم (إنجليزي)</string>
+    <string name="name_ar">الاسم (عربي)</string>
+    <string name="url">الرابط</string>
+
+    <string name="open_video">فتح الفيديو</string>
+
+    <string name="spiritual_need">الاحتياجات الرُّوحية</string>
+    <string name="sp_devotionals">تأمُّلات</string>
+    <string name="sp_resources">موارد</string>
+
+    <string name="add_devotional">إضافة تأمُّل</string>
+    <string name="add_resource">إضافة مورد</string>
+
+    <string name="resource_method_required">أدخل بريدًا إلكترونيًا أو رابطًا.</string>
+
+    <string name="tutorial_drain_care">رعاية الصرف</string>
+    <string name="tutorial_wound_care">العناية بالجروح</string>
+    <string name="tutorial_medications">الأدوية</string>
+    <string name="tutorial_formula_mixes">خلطات الحليب</string>
+
+    <string name="admin_actions">إجراءات المشرف</string>
+    <string name="delete_confirm">هل تريد حذف هذا العنصر؟</string>
+
+    <string name="systolic">الانقباضي</string>
+    <string name="diastolic">الانبساطي</string>
+    <string name="note_optional">ملاحظة (اختياري)</string>
+    <string name="invalid_number">رقم غير صالح</string>
+    <string name="required">مطلوب</string>
+    <string name="blood_pressure_value">قيمة ضغط الدَّم (مثل 120/80)</string>
+
+</resources>

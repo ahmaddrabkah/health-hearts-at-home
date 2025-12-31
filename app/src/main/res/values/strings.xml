@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Health Hearts at Home</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+
+    <string name="firebase_not_configured">Firebase isn’t configured</string>
+    <string name="firebase_not_configured_desc">Your project is missing (or has a wrong) google-services.json.\n\nCreate a Firebase project, add an Android app with this package name: com.healthhearts.app, then download google-services.json and place it inside the app/ folder.</string>
+    <string name="open_setup_guide">Open Firebase setup guide</string>
+    <string name="track_your_child">Track Your Child</string>
+    <string name="general_childcare_info">General Childcare Info</string>
+    <string name="tutorials_child_care">Tutorials for Child Care Needs</string>
+    <string name="spiritual_needs">Spiritual Needs</string>
+    <string name="hospital_information">Hospital Information</string>
+    <string name="caregiver_support">Caregiver Support</string>
+    <string name="about_chd">About Your Child’s CHD</string>
+    <string name="contacts">Contacts</string>
+
+    <!-- Home tile labels (kept as separate keys to avoid breaking code) -->
+    <string name="home_general_childcare_info">General Childcare Info</string>
+    <string name="home_childcare_tutorials">Tutorials for Child Care Needs</string>
+    <string name="home_spiritual_needs">Spiritual Needs</string>
+    <string name="home_hospital_information">Hospital Information</string>
+    <string name="home_caregiver_support">Caregiver Support</string>
+    <string name="home_about_child_chd">About Your Child’s CHD</string>
+    <string name="home_track_child">Track Your Child</string>
+    <string name="home_contacts">Contacts</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="language">Language</string>
+    <string name="no_items">No items yet</string>
+    <string name="loading">Loading…</string>
+
+    <string name="feeding">Feeding</string>
+    <string name="oxygen">Oxygen</string>
+    <string name="weight">Weight</string>
+    <string name="blood_pressure">Blood Pressure</string>
+
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="amount_ml">Amount (ml)</string>
+    <string name="method">Method</string>
+    <string name="breast">Breast</string>
+    <string name="bottle">Bottle</string>
+    <string name="spo2">SpO₂ (%)</string>
+    <string name="notes">Notes</string>
+
+    <string name="tab_hospital">Hospital</string>
+    <string name="tab_local">Local</string>
+    <string name="tab_my_providers">My Providers</string>
+
+    <string name="contacts_support">Contacts &amp; Support</string>
+    <string name="hospital_contacts">Hospital Contacts</string>
+    <string name="local_contacts">Local Contacts</string>
+    <string name="my_providers">My Providers</string>
+
+    <string name="provider_name">Provider Name</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="address">Address</string>
+    <string name="add_provider">Add Provider</string>
+    <string name="edit_provider">Edit Provider</string>
+
+
+    <!-- Screen titles -->
+    <string name="title_home">Home</string>
+    <string name="title_content_details">Content Details</string>
+    <string name="title_add_content">Add Content</string>
+    <string name="title_edit_content">Edit Content</string>
+    <string name="search_hint">Search…</string>
+    <string name="open">Open</string>
+
+    <!-- Content types -->
+    <string name="type_text">Text</string>
+    <string name="type_link">Link</string>
+    <string name="type_video">Video</string>
+    <string name="type_pdf">PDF</string>
+
+    <!-- Content fields -->
+    <string name="title_en">Title (English)</string>
+    <string name="body_en">Body (English)</string>
+    <string name="title_ar">Title (Arabic)</string>
+    <string name="body_ar">Body (Arabic)</string>
+    <string name="media_url_optional">Media URL (optional)</string>
+    <string name="link_en">Link URL (English)</string>
+    <string name="link_ar">Link URL (Arabic)</string>
+    <string name="video_url_en">Video URL (English)</string>
+    <string name="video_url_ar">Video URL (Arabic)</string>
+    <string name="pdf_url_en">PDF URL (English)</string>
+    <string name="pdf_url_ar">PDF URL (Arabic)</string>
+
+
+    <!-- Contacts admin -->
+    <string name="title_add_contact">Add Contact</string>
+    <string name="title_edit_contact">Edit Contact</string>
+    <string name="contact_type_label">Type</string>
+    <string name="contact_kind_label">Kind</string>
+    <string name="contact_value_label">Value</string>
+    <string name="kind_phone">Phone</string>
+    <string name="kind_email">Email</string>
+    <string name="kind_website">Website</string>
+    <string name="kind_map">Map</string>
+    <string name="kind_text">Text</string>
+
+    <string name="hospital_website">Website</string>
+    <string name="hospital_open_website">Open Website</string>
+    <string name="hospital_working_hours">Working Hours</string>
+    <string name="hospital_area_map">Area Map</string>
+    <string name="hospital_open_location_hint">Open location in Google Maps</string>
+    <string name="hospital_open_map">Open Map</string>
+    <string name="hospital_showers">Hospital Showers</string>
+    <string name="hospital_open_showers">Open Showers Info</string>
+    <string name="hospital_edit_info">Edit Hospital Info</string>
+
+    <string name="hospital_website_url">Website URL</string>
+    <string name="hospital_working_hours_en">Working Hours (English)</string>
+    <string name="hospital_working_hours_ar">Working Hours (Arabic)</string>
+    <string name="hospital_map_query_hint">Map Search Query (e.g., hospital name or address)</string>
+    <string name="hospital_showers_url">Hospital Showers URL</string>
+
+    <string name="cg_support_groups">Support groups</string>
+    <string name="cg_contacts">Contacts</string>
+    <string name="cg_patient_stories">Patient stories</string>
+
+    <string name="add_support_group">Add Support Group</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="add_story">Add Story</string>
+
+    <string name="url_required">URL is required.</string>
+    <string name="contact_method_required">Please enter at least one: Website, Email, or Phone.</string>
+
+    <string name="story_type_hint">Story Type</string>
+    <string name="video_url">Video URL</string>
+    <string name="video_required">Video URL is required.</string>
+    <string name="story_text_required">Please enter the story text (English or Arabic).</string>
+
+    <string name="name_en">Name (English)</string>
+    <string name="name_ar">Name (Arabic)</string>
+    <string name="url">URL</string>
+
+    <string name="open_video">Open video</string>
+
+    <string name="spiritual_need">Spiritual Need</string>
+    <string name="sp_devotionals">Devotionals</string>
+    <string name="sp_resources">Resources</string>
+
+    <string name="add_devotional">Add Devotional</string>
+    <string name="add_resource">Add Resource</string>
+
+    <string name="resource_method_required">Please enter an Email or a Link.</string>
+
+    <string name="tutorial_drain_care">Drain care</string>
+    <string name="tutorial_wound_care">Wound care</string>
+    <string name="tutorial_medications">Medications</string>
+    <string name="tutorial_formula_mixes">Formula mixes</string>
+
+    <string name="admin_actions">Admin actions</string>
+    <string name="delete_confirm">Delete this item?</string>
+
+    <string name="systolic">Systolic</string>
+    <string name="diastolic">Diastolic</string>
+    <string name="note_optional">Note (optional)</string>
+    <string name="invalid_number">Invalid number</string>
+    <string name="required">Required</string>
+    <string name="blood_pressure_value">Blood pressure value (e.g., 120/80)</string>
+
+</resources>
